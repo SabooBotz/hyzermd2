@@ -127,7 +127,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
           break
 
         default:
-          return conn.sendButton( m.chat, caption, `KannaBot`, `⋮☰ Back`, `.allmenu`, m)
+          return conn.sendButton( m.chat, caption, `Sabo Botz`, `⋮☰ Back`, `.allmenu`, m)
       }
     }
   } catch (err) {
