@@ -1,6 +1,6 @@
-global.owner = ['6287892711054'] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.owner = ['6282145203493'] // Put your number here
+global.mods = ['6282145203493'] // Want some help?
+global.prems = ['628214502393'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -41,16 +41,16 @@ global.APIKeys = { // APIKey Here
 //cari apikey sendiri ya gaes yak
 
 // Sticker WM
-global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'stickerby'
-global.author = `𝚂𝙷𝙸𝚁𝙾-𝙼𝙳`
-global.wm = '𝙷𝚈𝚉𝙴𝚁 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻'
+global.stiker_wait = 'Stiker Sedang Dibuat!'
+global.packname = 'Created By'
+global.author = `Sabo`
+global.wm = 'Sabo Botz'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.instagram = 'https://instagram.com/hyzer-stfu'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
 global.wait = '_*tunggu sedang di proses...*_'
-global.eror = '_*Server Error*_'
+global.eror = '_*Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 
